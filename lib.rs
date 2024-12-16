@@ -15,6 +15,7 @@ pub use self::{
     imlib_create_color_range as ImlibCreateColorRange,
     imlib_create_cropped_scaled_image as ImlibCreateCroppedScaledImage,
     imlib_free_image_and_decache as ImlibFreeImageAndDecache,
+    imlib_image_get_data as ImlibImageGetData,
     imlib_image_get_height as ImlibImageGetHeight, imlib_image_get_width as ImlibImageGetWidth,
     imlib_load_image as ImlibLoadImage,
     imlib_render_image_on_drawable as ImlibRenderImageOnDrawable,
